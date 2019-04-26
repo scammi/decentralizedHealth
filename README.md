@@ -2,6 +2,19 @@
 
 La información médica está disponible, pero obtener acceso a ella, resulta difícil, lento, incluso inverificable en algunas oportunidades. El acceso a su perfil médico unificado encaja bien en la línea de frustración aceptable, donde los pacientes deben recopilar partes de sus perfiles médicos repartidos por todo el país.
 
+Las soluciones actuales son poco satifactorias, tiene problematicas como la falta de conexion entre las instituciones, incongruencias entre los estandares y falta tanto de interes como voluntad por desarrollar soluciones integrales. Llevan a que tanto como los pacientes los doctores sufran de burocracia y dificultades ridiculas e inecesarias.
+
+### ¿Por que decentralizar?
+Utilizar estructuras decentralizadas ofrecen las ventajas de ser mas robustas y ser menos vulnerables, por ende mas seguras. La cryptografia asegura que la informacion que es provista por los pacientes sea verosimil y le da a los usuarios la garantia de que esa informacion pertenece obsulutamente a ellos. Asegurando la privacidad de sensibles datos medicos.
+
+### ¿Por que IPFS?
+Es poco practico y anti-economico el almacenar grandes volumenes de datos en la blockchain de etherum. Justo, las historias clinicas, consinten en archivos que consumen grandes volumenes del mismo, con el uso de contenido visual como tomogarfias y otro tipo de estudios diagnostico.
+Por eso, utilizamos otro protocolo especializado para tal uso, IPFS, red de nodos decentralizado, que combina la tecnologias de git y bit torrent para almacenar grades cantitades de datos.  De manera segura y eficiente. 
+
+
+
+
+
 ###Problemática:
 
 El médico debe de ser veraz, eficiente y oportuno. En el diagnóstico no puede fallar, el tratamiento, ni de más ni de menos. Obviamente nunca hacer daño. Y el pecado mayor de todos equivocarse. Prohibido equivocarse.
