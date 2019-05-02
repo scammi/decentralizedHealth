@@ -15,7 +15,7 @@ Por eso, utilizamos otro protocolo especializado para tal uso, IPFS, red de nodo
 
 
 
-###Problemática:
+### Problemática:
 
 El médico debe de ser veraz, eficiente y oportuno. En el diagnóstico no puede fallar, el tratamiento, ni de más ni de menos. Obviamente nunca hacer daño. Y el pecado mayor de todos equivocarse. Prohibido equivocarse.
 
