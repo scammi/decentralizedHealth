@@ -1,5 +1,7 @@
 # Dedentralized Health 
 
+## 3° puesto en primer hackathon block-chain en ciudad de La Plata. 
+
 La información médica está disponible, pero obtener acceso a ella, resulta difícil, lento, incluso inverificable en algunas oportunidades. El acceso a su perfil médico unificado encaja bien en la línea de frustración aceptable, donde los pacientes deben recopilar partes de sus perfiles médicos repartidos por todo el país.
 
 Las soluciones actuales son poco satifactorias, tiene problematicas como la falta de conexion entre las instituciones, incongruencias entre los estandares y falta tanto de interes como voluntad por desarrollar soluciones integrales. Llevan a que tanto como los pacientes los doctores sufran de burocracia y dificultades ridiculas e inecesarias.
